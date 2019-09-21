@@ -26,7 +26,7 @@ public function fields()
     ];
 }
 ```
-<img src="https://github.com/scadini/nova-icon/blob/master/img/example_1.png" alt="Example 1">
+<img src="./img/example_1.png" alt="Example 1">
 
 ___
 The simplest way to add an icon is by using the `icon()` method. 
@@ -86,7 +86,7 @@ Here's an example about using this component. Let's say a user has a preferred i
         })
 ```
 
-<img src="https://github.com/scadini/nova-icon/blob/master/img/example_2.png" alt="Example 2">
+<img src="./img/example_2.png" alt="Example 2">
 
 ---
 ## Available Icons
