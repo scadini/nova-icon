@@ -1,0 +1,12 @@
+<template>
+  <svg version="1.1" id="Arrow_long_up" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+       y="0px" viewBox="0 0 20 20" enable-background="new 0 0 20 20" xml:space="preserve">
+  <path d="M10,0.75L15.5,6H12v13H8V6H4.5L10,0.75z"/>
+  </svg>
+</template>
+
+<script>
+    export default {
+        name: "ArrowLongUp"
+    }
+</script>

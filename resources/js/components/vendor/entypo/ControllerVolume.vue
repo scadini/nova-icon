@@ -1,0 +1,13 @@
+<template>
+    <svg version="1.1" id="Volume" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+         viewBox="0 0 20 20" enable-background="new 0 0 20 20" xml:space="preserve">
+    <path d="M19,13.805C19,14.462,18.462,15,17.805,15H1.533c-0.88,0-0.982-0.371-0.229-0.822l16.323-9.055C18.382,4.67,19,5.019,19,5.9
+        V13.805z"/>
+    </svg>
+</template>
+
+<script>
+    export default {
+        name: "ControllerVolume"
+    }
+</script>

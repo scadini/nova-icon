@@ -1,0 +1,12 @@
+<template>
+  <svg version="1.1" id="Bookmark" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+       viewBox="0 0 20 20" enable-background="new 0 0 20 20" xml:space="preserve">
+  <path d="M14,2v17l-4-4l-4,4V2c0-0.553,0.585-1.02,1-1h6C13.689,0.98,14,1.447,14,2z"/>
+  </svg>
+</template>
+
+<script>
+    export default {
+        name: "Bookmark"
+    }
+</script>

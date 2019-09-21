@@ -1,0 +1,12 @@
+<template>
+  <svg version="1.1" id="Back" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+       viewBox="0 0 20 20" enable-background="new 0 0 20 20" xml:space="preserve">
+  <path d="M19,7v6c0,1.103-0.896,2-2,2H3v-3h13V8H5v2L1,6.5L5,3v2h12C18.104,5,19,5.896,19,7z"/>
+  </svg>
+</template>
+
+<script>
+    export default {
+        name: "Back"
+    }
+</script>
