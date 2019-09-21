@@ -1,7 +1,7 @@
 ## Nova Icon
 This package allows you to render a SVG icon as a custom field.
 
-[Available Icons](#available-icons)
+[Available Icons](#available-icons) | [Examples](#example) | [Roadmap](#roadmap)
 ___
 ### Installation
 ```bash
