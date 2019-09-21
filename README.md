@@ -97,3 +97,9 @@ Currently, the only vendor available is [Entypo](http://www.entypo.com/),
 but there are plans to include [Zondicons](https://www.zondicons.com/icons.html) library.
 
 For the icon names you can use [this reference table](https://github.com/hypermodules/entypo#icon-names)
+___
+
+## Roadmap
+- [ ] Add all icons from Entypo
+- [ ] Add all icons from Zondicons
+- [ ] Make icons clickable to perform actions or view resources
