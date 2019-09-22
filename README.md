@@ -1,4 +1,7 @@
-## Nova Icon
+## Nova Icon 
+![Packagist Version](https://img.shields.io/packagist/v/scadini/nova-icon?color=blue)
+![GitHub](https://img.shields.io/github/license/scadini/nova-icon)
+
 This package allows you to render a SVG icon as a custom field.
 
 [Available Icons](#available-icons) | [Examples](#example) | [Roadmap](#roadmap)
