@@ -3,9 +3,18 @@
     "description": "A Laravel Nova icon field.",
     "keywords": [
         "laravel",
-        "nova"
+        "nova",
+        "icon",
+        "field",
+        "svg"
     ],
     "license": "MIT",
+    "authors": [
+        {
+            "name": "João Santos",
+            "email": "joaoecoceanus@gmail.com"
+        }
+    ],
     "require": {
         "php": ">=7.1.0"
     },
