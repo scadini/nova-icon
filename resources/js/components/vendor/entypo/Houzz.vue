@@ -1,0 +1,12 @@
+<template>
+    <svg version="1.1" id="Houzz" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+         viewBox="0 0 20 20" enable-background="new 0 0 20 20" xml:space="preserve">
+    <path d="M4,10l6,3l-6,3V10z M10,7l6,3V4L10,7z M10,20l6-3v-7l-6,3V20z M10,0L4,3v7l6-3V0z"/>
+    </svg>
+</template>
+
+<script>
+    export default {
+        name: "Houzz"
+    }
+</script>
