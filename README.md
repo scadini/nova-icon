@@ -94,7 +94,7 @@ Here's an example about using this component. Let's say a user has a preferred i
 ---
 ## Available Icons
 
-The icons available are separated by their vendor name.
+The icons available are organized by their vendor name.
 
 Currently, the only vendor available is [Entypo](http://www.entypo.com/), 
 but there are plans to include [Zondicons](https://www.zondicons.com/icons.html) library.
